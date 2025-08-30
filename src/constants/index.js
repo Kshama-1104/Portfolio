@@ -165,8 +165,8 @@ const projects = [
     source_code_link: "https://github.com/gagandeepsingh76/PSIT-Virtual-Lab.git",
   },
   {
-    name: "Motion Detection Camera",
-    description: "OpenCV-based real-time motion, face, eye, and color tracking with alarm triggers.",
+    name: "AI-Powered Multi-Language Translator",
+    description: "Neural-network-based real-time speech and text translation with voice output and multilingual support.",
     image: projectImageOne,
     source_code_link: "https://github.com/gagandeepsingh76/Motion-Detection-Camera.git",
   },
