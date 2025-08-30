@@ -112,22 +112,29 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2025 – Present",
     points: [
-      "Designed and maintained a virtual laboratory using Blender and Unity, increasing student engagement by 25%+ through interactive 3D technical simulations.",
-      "Delivered technical workshops to 150+ students, closing the gap between theoretical and practical skills.",
-      "Authored comprehensive technical documentation, reducing onboarding time for new team members by 20%."
+      "🎯 Developed and deployed a virtual laboratory using Blender & Unity, boosting student engagement by 25%+ through interactive 3D simulations.",
+
+"👩‍🏫 Conducted technical workshops for 150+ students, bridging the gap between theory and practical application.",
+
+"📝 Authored technical documentation to streamline onboarding, reducing new team integration time by 20%."
+
     ],
   },
   {
     title: "Research Associate & Chair",
-    company_name: "IEEE PSIT Student Branch",
+    company_name: " IEEE WIE PSIT Student Branch",
     icon: creator,
     iconBg: "#383E56",
     date: "Apr - 2025",
     points: [
-      "Lead a 40-member IEEE Student Branch team, driving technical initiatives, research collaborations, and community engagement.",
-      "Organized and delivered 10+ workshops on DSA, DevOps, and cloud tools; mentored 20+ students.",
-      "Organized an international conference in collaboration with the University of Louisville (USA), fostering academic exchange between students and global experts.",
-      "Worked alongside global researchers on emerging technologies in AI, cloud computing, and cybersecurity."
+      "👩‍💻 Led the IEEE WIE PSIT team, empowering women in technology through technical initiatives, mentorship, and community engagement.",
+
+"📚 Organized and delivered 10+ workshops on AI, ML, DSA, Web Development, and Cloud Computing, mentoring 20+ women students.",
+
+"🌍 Facilitated global collaborations with researchers and professionals, fostering knowledge-sharing and innovation.",
+
+"🚀 Advocated for gender diversity in STEM, creating opportunities for women students to take part in research, leadership, and emerging technologies."
+      
     ],
   },
 ];
