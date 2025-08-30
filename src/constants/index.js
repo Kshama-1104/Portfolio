@@ -161,39 +161,39 @@ const projects = [
     name: "PSIT Virtual Labs",
     description: "HTML/CSS/JS virtual lab platform featuring interactive simulations for CS and EE curricula. Enhances learning with hands-on digital experiments.",
     image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    website_link: "https://psit-virtual-lab.vercel.app/",
-    source_code_link: "https://github.com/gagandeepsingh76/PSIT-Virtual-Lab.git",
+    website_link: "https://psit-virtual-labs.vercel.app/",
+    source_code_link: "https://github.com/Kshama-1104/PSIT-Virtual-Labs.git",
   },
   {
     name: "AI-Powered Multi-Language Translator",
     description: "Neural-network-based real-time speech and text translation with voice output and multilingual support.",
     image: projectImageOne,
-    source_code_link: "https://github.com/gagandeepsingh76/Motion-Detection-Camera.git",
+    source_code_link: "https://github.com/Kshama-1104/AI-Powered-Multi-Language-Translator.git",
   },
   {
     name: "DeepDR",
     description: "Deep learning-based Diabetic Retinopathy analysis and detection system using ResNet, MobileNet, EfficientNet, and Inception models.",
     image: projectImageTwo,
-    source_code_link: "https://github.com/gagandeepsingh76/Diabetic-Eye-Retinopathy.git", // TODO: replace with actual repo link
+    source_code_link: "https://github.com/Kshama-1104/Diabetic-Eye-Retinopathy.git", // TODO: replace with actual repo link
   },
   {
     name: "DeepDR using Quantum Transfer Learning",
     description: "Hybrid quantum-classical transfer learning for DR detection leveraging ResNet, MobileNet, EfficientNet, and Inception feature extractors with quantum layers.",
     image: projectImageThree,
-    source_code_link: "https://github.com/gagandeepsingh76/Diabetic-Eye-Retinopathy-Quantum-Learning.git", // TODO: replace with actual repo link
+    source_code_link: "https://github.com/Kshama-1104/Diabetic-Eye-Retinopathy-Quantum-Learning.git", // TODO: replace with actual repo link
   },
   {
     name: "Arogyaverse",
     description: "Healthcare metaverse platform for virtual medical consultations and patient care. Features 3D virtual environments, real-time doctor-patient interactions, AI-powered symptom analysis, and secure health record management.",
     image: projectImageFive,
-    website_link: "https://arogyaverse-six.vercel.app/",
-    source_code_link: "https://github.com/gagandeepsingh76/Arogyaverse.git", // TODO: replace with actual repo link
+    website_link: "https://herbal-garden-kappa.vercel.app/",
+    source_code_link: "https://github.com/Kshama-1104/ArogyaVerse.git", // TODO: replace with actual repo link
   },
   {
     name: "Virtual Reality",
     description: "Immersive VR experience with interactive 3D environments, spatial audio, and motion tracking for educational and entertainment applications.",
     image: projectImageSix,
-    source_code_link: "https://github.com/gagandeepsingh76/Virtual-Reality-Labs.git", // TODO: replace with actual repo link
+    source_code_link: "https://github.com/Kshama-1104/Virtual-Reality-Lab.git", // TODO: replace with actual repo link
   },
 ];
 
